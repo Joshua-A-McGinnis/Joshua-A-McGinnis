@@ -1,4 +1,4 @@
-### Welcome to my personal website! (Last Update: August 2023)
+### Welcome to my personal minisite! (Last Update: August 2023)
 
 Here is a bit about me. I graduated with my PhD from Drexel University in the Spring of 2023. My advisor was J. Douglas Wright. I am currently a AMCS Postdoc at the University of Pennsylvania. 
 I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. 
