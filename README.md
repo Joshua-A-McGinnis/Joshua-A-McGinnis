@@ -40,7 +40,7 @@ The power and I believe popularity of the model came from its the simplicity. In
 One assumption in the basic DeGroot model is that agents update their beliefs simultaneously, so what happens if we throw out that assumption and instead assume agents choose to update their beliefs in a random order? 
 Can the same networks still reach consensus? I found that in most cases, they do. You can find my report in the "other endeavors" folder. 
 
-
+My email is "jam" followed by the digits of the 154th prime number at "sas" dot "upenn" dot "edu".
 
 
 
