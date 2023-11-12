@@ -9,7 +9,7 @@ https://dsweb.siam.org/The-Magazine/Article/student-feature-joshua-a-mcginnis
 
 I find the use of simulations especially helpful in learning, and I am hoping to use this page in the future to upload any numerical work related to my research. 
 
-## Waves in lattices with wandom material components 
+## Waves in lattices with random material components 
 
 Here is a link to a paper I wrote with my advisor proving the existence of travelling waves in a 1D lattice with random material components: https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100
 
