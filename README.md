@@ -31,7 +31,7 @@ I wrote a [pre-print](https://arxiv.org/abs/2202.04113) with my friend and fello
 
 When I was an early PhD student, I got a chance to work on a question in the dynamics of reaching a consensus. One mathematical [model](https://en.wikipedia.org/wiki/DeGroot_learning  ) that is widely cited was created by Morris H. DeGroot. 
 
-The power and I believe popularity of the model came from its the simplicity. In DeGroot’s model, certain networks are able to reach consensus while others cannot and this depends on connectivity properties of the network. 
+I believe popularity of the model came from its the simplicity. In DeGroot’s model, certain networks are able to reach consensus while others cannot and this depends on connectivity properties of the network. 
 One assumption in the basic DeGroot model is that agents update their beliefs simultaneously, so what happens if we throw out that assumption and instead assume agents choose to update their beliefs in a random order? 
 Can the same networks still reach consensus? I found that in within the context of the DeGroot model, [they do](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/OtherEndeavors/Consensus_Protocol_Model%20(1).pdf).
 
