@@ -2,7 +2,7 @@
 
 Here is a bit about me. I graduated with my PhD from Drexel University in the Spring of 2023. My advisor was J. Douglas Wright. I am currently an AMCS Postdoc at the University of Pennsylvania working with Yoichiro Mori and Joshua Plotkin. 
 I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. 
-My research as a PhD student involved proving things about waves traveling through lattices made of "random" material. If you want to know a bit more about my research as PhD student, see 
+My research as a PhD student involved proving things about waves traveling through lattices made of "random" material. If you want to know a bit more about my research as a PhD student, see 
 below, or you can have a look at my [research statement](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/ResearchStatement-McGinnis%20(1).pdf). For an even briefer introductory account, go [here](https://dsweb.siam.org/The-Magazine/Article/student-feature-joshua-a-mcginnis).
 
 I find the use of simulations especially helpful in learning, and I am hoping to use this page in the future to upload any numerical work related to my research. 
