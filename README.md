@@ -1,15 +1,15 @@
-### Welcome to my personal minisite! (Last Update: August 2023)
+### Welcome to my personal minisite! (Last Update: November 2023)
 
 Here is a bit about me. I graduated with my PhD from Drexel University in the Spring of 2023. My advisor was J. Douglas Wright. I am currently an AMCS Postdoc at the University of Pennsylvania working with Yoichiro Mori and Joshua Plotkin. 
 I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. 
-My research as a PhD student involved proving things about waves travelling through lattices made of "random" material. If you want to know a bit more about my research, see 
-the papers listed below, or you can have a look at my research statement located in this repository. For an even briefer introductory account, go [here](https://dsweb.siam.org/The-Magazine/Article/student-feature-joshua-a-mcginnis) 
+My research as a PhD student involved proving things about waves travelling through lattices made of "random" material. If you want to know a bit more about my research as PhD student, see 
+below, or you can have a look at my [research statement](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/ResearchStatement-McGinnis%20(1).pdf). For an even briefer introductory account, go [here](https://dsweb.siam.org/The-Magazine/Article/student-feature-joshua-a-mcginnis) 
 
 I find the use of simulations especially helpful in learning, and I am hoping to use this page in the future to upload any numerical work related to my research. 
 
 ## Waves in lattices with random material components 
 
-Here is a link to a paper I wrote a [paper](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100)with my advisor proving the existence of travelling waves in a 1D lattice with random material components.
+Here is a link to a paper I wrote a [paper](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100) with my advisor proving the existence of traveling waves in a 1D lattice with random material components.
 
 I followed this up with a [2D lattice](https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.12612) (the analysis was harder in the 2D case). 
 
@@ -29,11 +29,13 @@ I wrote a [pre-print](https://arxiv.org/abs/2202.04113) with my friend and fello
 
 ### Consensus Protocol
 
-When I was a young PhD student, I got a chance to work on a question in the dynamics of reaching a consensus. One mathematical [model](https://en.wikipedia.org/wiki/DeGroot_learning  ) that is widely cited was created by Morris H. DeGroot. 
+When I was an early PhD student, I got a chance to work on a question in the dynamics of reaching a consensus. One mathematical [model](https://en.wikipedia.org/wiki/DeGroot_learning  ) that is widely cited was created by Morris H. DeGroot. 
 
 The power and I believe popularity of the model came from its the simplicity. In DeGroot’s model, certain networks are able to reach consensus while others cannot and this depends on connectivity properties of the network. 
 One assumption in the basic DeGroot model is that agents update their beliefs simultaneously, so what happens if we throw out that assumption and instead assume agents choose to update their beliefs in a random order? 
-Can the same networks still reach consensus? I found that in within the context of the DeGroot model, [they do](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/OtherEndeavors/Consensus_Protocol_Model%20(1).pdf). 
+Can the same networks still reach consensus? I found that in within the context of the DeGroot model, [they do](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/OtherEndeavors/Consensus_Protocol_Model%20(1).pdf).
+
+##Further Info
 
 See my Google scholar for a [list](https://scholar.google.com/citations?user=qgPPkD8AAAAJ&hl=en&oi=ao) of my research in one place. My email is "jam" followed by the digits of the 154th prime number at "sas" dot "upenn" dot "edu".
 
