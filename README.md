@@ -9,7 +9,7 @@ I find the use of simulations especially helpful in learning, and I am hoping to
 
 ## Waves in lattices with random material components 
 
-Here is a link to a paper I wrote a [paper](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100) with my advisor proving the existence of traveling waves in a 1D lattice with random material components.
+I wrote a [paper](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100) with my advisor proving the existence of traveling waves in a 1D lattice with random material components.
 
 I followed this up with a [2D lattice](https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.12612) (the analysis was harder in the 2D case). 
 
