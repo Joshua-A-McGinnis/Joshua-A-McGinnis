@@ -1,6 +1,6 @@
 ### Welcome to my personal minisite! (Last Update: August 2023)
 
-Here is a bit about me. I graduated with my PhD from Drexel University in the Spring of 2023. My advisor was J. Douglas Wright. I am currently a AMCS Postdoc at the University of Pennsylvania. 
+Here is a bit about me. I graduated with my PhD from Drexel University in the Spring of 2023. My advisor was J. Douglas Wright. I am currently an AMCS Postdoc at the University of Pennsylvania working with Yoichiro Mori and Joshua Plotkin. 
 I love learning and problem solving, and I also enjoy collaborating as well as teaching the things I have learned. 
 My research as a PhD student involved proving things about waves travelling through lattices made of "random" material. If you want to know a bit more about my research, see 
 the papers listed below, or you can have a look at my research statement located in this repository. For an even briefer introductory account, see the following link: 
