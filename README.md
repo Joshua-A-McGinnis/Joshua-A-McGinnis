@@ -13,7 +13,7 @@ I wrote a [paper](https://www.aimsciences.org/article/doi/10.3934/dcdss.2021100)
 
 I followed this up with a [2D lattice](https://onlinelibrary.wiley.com/doi/full/10.1111/sapm.12612) (the analysis was harder in the 2D case). 
 
-Most recently, me and my PhD advisor were able to rigorously prove that FPUT lattices with random masses are approximated by a KdV equation, if the random masses have a certain property. The [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601737) is currently under review. 
+Most recently, my PhD advisor and I were able to rigorously prove that FPUT lattices with certain random masses are approximated by a KdV equation. The [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4601737) is currently under review. 
 
 ## Other Endeavors 
 
@@ -25,7 +25,7 @@ I recently (Fall 2022) took a very good class on machine learning because I want
 This is a rather large question, so I worked on a fairly small example. I wrote a [report](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/OtherEndeavors/Basic_Experiment_Estimating_Medium_Parameters%20(1).pdf) for the class which discusses basic methods of parameter estimation for a dynamical system. The course was taught by Drexel Professor, Gordon Richards. It is worth checking out his course [page](https://github.com/gtrichards/PHYS_440_540) in case you are a student considering a similar class at another university. 
 
 ### Physical Zero-Knowledge Proof
-I wrote a [pre-print](https://arxiv.org/abs/2202.04113) with my friend and fellow PhD student, Eammon, which outlines a protocol in which someone can prove they have a solution to a game of Flow Free, without revealing or giving away any information about the solution. This protocol can be carried out with a physical deck of cards. Such protocols are known as physical zero-knowledge proofs. 
+I wrote a [pre-print](https://arxiv.org/abs/2202.04113) with my friend and fellow PhD student, Eammon, which outlines a protocol in which someone can prove they have a solution to a game of [Flow Free](https://play.google.com/store/apps/details?id=com.bigduckgames.flow&hl=en_US&gl=US&pli=1), without revealing or giving away any information about the solution. This protocol can be carried out with a physical deck of cards. Such protocols are known as physical zero-knowledge proofs. 
 
 ### Consensus Protocol
 
@@ -33,7 +33,7 @@ When I was an early PhD student, I got a chance to work on a question in the dyn
 
 I believe popularity of the model came from its the simplicity. In DeGroot’s model, certain networks are able to reach consensus while others cannot and this depends on connectivity properties of the network. 
 One assumption in the basic DeGroot model is that agents update their beliefs simultaneously, so what happens if we throw out that assumption and instead assume agents choose to update their beliefs in a random order? 
-Can the same networks still reach consensus? I found that in within the context of the DeGroot model, [they do](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/OtherEndeavors/Consensus_Protocol_Model%20(1).pdf).
+Can the same networks still reach consensus? I found that within the context of the DeGroot model, [they do](https://github.com/Joshua-A-McGinnis/Joshua-A-McGinnis/blob/main/OtherEndeavors/Consensus_Protocol_Model%20(1).pdf).
 
 ## Further Info
 
